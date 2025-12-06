@@ -1,6 +1,6 @@
 # Habit Tracker 
 
-Habit Tracker (Dashboard) es una aplicación web para la gestión de hábitos personales con sistema de progreso, niveles y estadísticas. El frontend está desarrollado con **React (Next.js)** y se comunica con un backend construido en **FastAPI** mediante una API REST.
+Habit Tracker (Dashboard) es una aplicación web para la gestión de hábitos personales con sistema de progreso, niveles y estadísticas. El frontend está desarrollado con **React** y se comunica con un backend construido en **FastAPI** mediante una API REST.
 
 Este proyecto fue desarrollado como práctica full stack enfocada en consumo de APIs, autenticación, manejo de estado, visualización de datos y diseño de interfaz moderna.
 
